@@ -413,8 +413,8 @@ protected:
  */
 int main() 
 {
-    char * wifi_ssd = "SIX-SG";
-    char * wifi_passwd = "6@suntec5";
+    char * wifi_ssd = "VPCOLA";
+    char * wifi_passwd = "AB12CD34";
 
     /* The default 9600 bps is too slow to print full TLS debug info and could
      * cause the other party to time out. */
